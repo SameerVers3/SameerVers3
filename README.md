@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sameer Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Sameer</h1>
 <h3 align="center">Let the beast get alive</h3>
 <img align="right" alt="power" width="400" src="https://giffiles.alphacoders.com/339/33944.gif">
 - 🔭 I’m currently working on [100 days of Code](https://github.com/SameerVers3/100-Days-of-Code)
