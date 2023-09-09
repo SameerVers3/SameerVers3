@@ -1,3 +1,5 @@
+
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/SameerVers3/SameerVers3/assets/111224603/81e4bee6-b4c0-46ff-92f1-774d89ec9ae3)
 <h1 align="center">Hi 👋, I'm Sameer</h1>
 <h3 align="center">Let the beast get alive</h3>
 - 🔭 I’m currently working on [100 days of Code](https://github.com/SameerVers3/100-Days-of-Code)
