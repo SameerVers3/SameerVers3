@@ -1,22 +1,22 @@
+<p align = "center"><img width = "50%"
+src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJxcDd4cHUweTYxb3IyaTFwb2kyamN2d3J1YmZidGo3bGVraHFubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/977YesTjNfQC7vQiph/giphy.gif" alt = "dragon ball z" ></p>
+<!--- You choose which to keep --->
+<!-- ![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/SameerVers3/SameerVers3/assets/111224603/81e4bee6-b4c0-46ff-92f1-774d89ec9ae3) -->
 
-![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/SameerVers3/SameerVers3/assets/111224603/81e4bee6-b4c0-46ff-92f1-774d89ec9ae3)
 <h1 align="center">Hi 👋, I'm Sameer</h1>
-<h3 align="center">Let the beast get alive</h3>
-- 🔭 I’m currently working on [100 days of Code](https://github.com/SameerVers3/100-Days-of-Code)
+<h3 align="center">Awaken the Beast Within</h3>
 
-- 🌱 I’m currently learning **Frontend development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/SameerVers3/](https://github.com/SameerVers3/)
-
-- 💬 Ask me about **Javascript, react and java**
-
-- 📫 How to reach me **sameerghafoor34@gmail.com**
-
-- ⚡ Fun fact **I am an INTJ**
+* 🔭 I’m currently working on [100-days-of-Code](https://github.com/SameerVers3/100-Days-of-Code)
+* 🌱 I’m currently learning **Front-End Web development**
+* 👨‍💻 All of my projects are available [here...](https://github.com/SameerVers3/)
+* 💬 Ask me about **Javascript, React.js and Java!**
+* 📫 How to reach me: [sameerghafoor34@gmail.com](mailto:sameerghafoor34@gmail.com)
+* ⚡ Fun fact **I am an INTJ**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameervers3&label=Profile%20views&color=0e75b6&style=flat" alt="sameervers3" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameervers3" alt="sameervers3" /></a> </p>
+<!-- This is an entire sticker in itself... -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameervers3" alt="sameervers3" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/sameer_vers3" target="blank"><img src="https://img.shields.io/twitter/follow/sameer_vers3?logo=twitter&style=for-the-badge" alt="sameer_vers3" /></a> </p>
 
