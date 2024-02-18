@@ -1,7 +1,6 @@
 <h1 align="center">Hello Devs 👀, I am Sameer</h1>
 <h3 align="center">a passionate Software Engineer, who stays most of the time in the his dorm room and trying to make next Facebook for the world</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SameerVers3&label=Profile%20views&color=0e75b6&style=flat" alt="SameerVers3" /> </p>
-
+[![](https://visitcount.itsvg.in/api?id=SameerVers3&icon=6&color=7)](https://visitcount.itsvg.in)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SameerVers3&theme=onestar" alt="SameerVers3" /></a> </p>
 
 - 🔭 I’m currently working on **Wiz Work**
@@ -29,10 +28,6 @@
 <div align="center">
 <a href="https://github.com/SameerVers3">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SameerVers3&theme=aura" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SameerVers3&theme=aura" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SameerVers3&theme=2077" height="180em" />
-  <br/>
-  <br/>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SameerVers3&theme=tokyonight" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SameerVers3&theme=tokyonight" height="180em" />
 </div>
