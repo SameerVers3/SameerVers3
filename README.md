@@ -14,12 +14,16 @@
 <div> <a href="https://github.com/SameerVers3" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:sameervers3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerVers3&layout=compact&theme=tokyonight" alt=SameerVers3 />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=SameerVers3&show_icons=true&locale=en&theme=tokyonight" alt="SameerVers3" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SameerVers3&theme=tokyonight" alt="SameerVers3" /></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">Stars</h3>
+<div align="center">
+<span align="center" ><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerVers3&layout=compact&theme=tokyonight" alt=SameerVers3 />
+</span>
+<span align="center" >&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=SameerVers3&show_icons=true&locale=en&theme=tokyonight" alt="SameerVers3" /></span>
+<br/>
+<br/>
+<span align="center" ><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SameerVers3&theme=tokyonight" alt="SameerVers3" /></span>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
